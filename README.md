@@ -1,4 +1,36 @@
-## Hi there 👋
+<h1 align="center">⚡ Dishant Gahlot</h1>
+
+<p align="center">
+  💻 Developer | 🤖 AI Learner | 🚀 Future Innovator
+</p>
+
+---
+
+## 🧠 About
+
+Driven by curiosity and passion for technology, I am focused on mastering development and exploring AI.
+I believe in continuous learning and building impactful projects.
+
+---
+
+## 🛠️ Stack
+
+Java • HTML • CSS • Bootstrap • Git
+
+---
+
+## 📊 Growth Mindset
+
+* Consistency over motivation
+* Learning by building
+* Improving every day
+
+---
+
+## 🔥 Quote
+
+> "Stay consistent. Results will follow."
+
 
 <!--
 **dishantgahlot/dishantgahlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
