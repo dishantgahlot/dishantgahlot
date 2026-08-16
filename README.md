@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00C6FF&height=250&section=header&text=Dishant%20Gahlot&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20AI%2FML%20Explorer%20%7C%20Hackathon%20Builder&descAlignY=52&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+with+React+%2B+Node+%2B+MongoDB;Prompting+LLMs+with+the+Groq+API;Shipping+hackathon+projects+fast;Learning+Transformers+from+scratch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+with+React+%2B+Node+%2B+MongoDB;Crafting+3D+experiences+with+Three.js;Shipping+hackathon+projects+fast;Consistency+over+motivation" alt="Typing SVG" />
 
 <br/>
 
